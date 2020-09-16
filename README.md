@@ -1,4 +1,4 @@
-# GL Hackathon  - Gopesh Singh Yadav
+# GL Hackathon
 
 DB used
 * MongoDB - for storing contest question details
